@@ -1,12 +1,8 @@
 {
   "name": "frontendsource",
   "version": "1.0.0",
-<<<<<<< HEAD
   "description": "前端学习资源",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xiaobo8024/frontendsource.git"
@@ -16,11 +12,6 @@
   "bugs": {
     "url": "https://github.com/xiaobo8024/frontendsource/issues"
   },
-  "homepage": "https://github.com/xiaobo8024/frontendsource#readme"
-=======
-  "description": "A Vue.js project",
-  "author": "tianxianbo <txbwork@163.com>",
-  "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
@@ -101,5 +92,4 @@
     "last 2 versions",
     "not ie <= 8"
   ]
->>>>>>> 3e623b4 (前端template)
 }
